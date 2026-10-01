@@ -6,9 +6,6 @@ PyBot is a simple, interactive chatbot built with Python for the CodeAlpha Basic
 
 - Responds to greetings and common questions
 - Remembers your name during the current session
-- Shows the current time and date
-- Performs basic addition, subtraction, multiplication, and division
-- Tells a random programming joke
 - Includes a help menu and exit commands
 
 ## Requirements
